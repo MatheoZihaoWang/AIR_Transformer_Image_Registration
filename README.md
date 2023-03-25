@@ -19,7 +19,7 @@ tensor_fix_train, tensor_mov_train, tensor_fix_test, tensor_mov_test: Convert th
 
 train_pr, test_pr: Create instances of imageHandle with the training and testing tensors.
 
-'''python main_brain.py''' 
+```python main_brain.py```
 
 ### We would like to thank you for citing the paper:
 
