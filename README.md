@@ -20,7 +20,7 @@ tensor_fix_train, tensor_mov_train, tensor_fix_test, tensor_mov_test: Convert th
 train_pr, test_pr: Create instances of imageHandle with the training and testing tensors.
 
 
-We would like to thank you for citing the paper:
+### We would like to thank you for citing the paper:
 
 @misc{wang2021attention,
       title={Attention for Image Registration (AiR): an unsupervised Transformer approach}, 
@@ -32,4 +32,3 @@ We would like to thank you for citing the paper:
 }
 
 Wang, Zihao, and Hervé Delingette. "Attention for image registration (air): an unsupervised transformer approach." arXiv preprint arXiv:2105.02282 (2021).
-Wang Z, Delingette H. Attention for image registration (air): an unsupervised transformer approach[J]. arXiv preprint arXiv:2105.02282, 2021. MLA	
