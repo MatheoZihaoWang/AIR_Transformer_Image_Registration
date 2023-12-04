@@ -33,3 +33,25 @@ train_pr, test_pr: Create instances of imageHandle with the training and testing
 }
 
 Wang, Zihao, and Hervé Delingette. "Attention for image registration (air): an unsupervised transformer approach." arXiv preprint arXiv:2105.02282 (2021).
+
+
+A following up work is in 
+
+Wang, Z., Yang, Y., Sermesant, M., Delingette, H. (2022). Unsupervised Echocardiography Registration Through Patch-Based MLPs and Transformers. In: Camara, O., et al. Statistical Atlases and Computational Models of the Heart. Regular and CMRxMotion Challenge Papers. STACOM 2022. Lecture Notes in Computer Science, vol 13593. Springer, Cham. https://doi.org/10.1007/978-3-031-23443-9_16
+
+@InProceedings{10.1007/978-3-031-23443-9_16,
+author="Wang, Zihao
+and Yang, Yingyu
+and Sermesant, Maxime
+and Delingette, Herv{\'e}",
+title="Unsupervised Echocardiography Registration Through Patch-Based MLPs and Transformers",
+booktitle="Statistical Atlases and Computational Models of the Heart. Regular and CMRxMotion Challenge Papers",
+year="2022",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="168--178",
+isbn="978-3-031-23443-9"
+}
+
+Source code is in
+https://gitlab.inria.fr/epione/mlp_transformer_registration
